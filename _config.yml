@@ -41,8 +41,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "vanngo0130@gmail.com
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "vanngo0130@gmail.com"
 # facebook: deanattali
   github: vankngo
 # twitter: daattali
@@ -77,10 +76,10 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  #twitter: true
+  #facebook: true
   linkedin: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
