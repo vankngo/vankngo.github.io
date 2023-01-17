@@ -4,7 +4,7 @@ title: About me
 subtitle: Why me
 ---
 
-<p style="text-align: center;">**My name is Van Ngo.** I enjoy getting insights from data to make efficient decisions and improvements. 
+**My name is Van Ngo.** I enjoy getting insights from data to make efficient decisions and improvements. 
 I gather information and analyze it even in my daily life. 
 >For example, in order to optimize my time and gas, before I decide to go out, I'd need to check:
 >>>the weather
@@ -12,4 +12,3 @@ I gather information and analyze it even in my daily life.
 >>>the route to multiple locations
 
 In my spare time, I enjoy watching movies, working out or just reading news about the world around me!
-</p>
