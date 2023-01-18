@@ -12,8 +12,10 @@ Simple Linear Regression for GDP and Life Expectancy
 
 Part a. Exploratory Analysis
 
+| ![figure8.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure8.png) | 
+|:--:| 
+| Figure 8: GDP per capita as a function of average life expectancy.* |
 
-![Alt](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure8.png?raw=true " Figure 8: GDP per capita as a function of average life expectancy.")
 The scatterplot shows a strong, positive, and nonlinear relationship between GDP per capita and average life expectancy. Therefore, the GDP per capita will also increase when the average life expectancy increases. Note that there are several outliers in the plot. The outliers were not removed because they had no noticeable effect on the outcome of the model.
 Part b. Model Fitting
 ![Alt](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure9.png?raw=true " Figure 9: log(GDP per capita) as a function of (average life expectancy)2.")
