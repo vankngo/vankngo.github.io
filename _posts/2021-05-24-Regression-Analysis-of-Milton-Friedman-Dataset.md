@@ -23,7 +23,7 @@ Part b. Model Fitting
 |:--:| 
 | *Figure 9: log(GDP per capita) as a function of (average life expectancy)^2.* |
 
-The relationship between GDP per capita and the average life expectancy was not linear. It is inappropriate to use a linear regression model to fit the data while violating the linearity assumptions. After trying different transformations on each variable, our group concluded that the variables log(GDP per capita) and (average life expectancy)<sup>2 satisfy the linear regression model’s assumptions. Additionally, the scatter plot above indicates a positive linear relationship between the two transformed variables.
+The relationship between GDP per capita and the average life expectancy was not linear. It is inappropriate to use a linear regression model to fit the data while violating the linearity assumptions. After trying different transformations on each variable, our group concluded that the variables log(GDP per capita) and (average life expectancy)<sup>2</sup> satisfy the linear regression model’s assumptions. Additionally, the scatter plot above indicates a positive linear relationship between the two transformed variables.
 
 | ![figure10.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure10.png?raw=true) | 
 |:--:| 
