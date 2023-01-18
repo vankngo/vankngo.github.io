@@ -17,6 +17,7 @@ Part a. Exploratory Analysis
 | *Figure 8: GDP per capita as a function of average life expectancy.* |
 
 The scatterplot shows a strong, positive, and nonlinear relationship between GDP per capita and average life expectancy. Therefore, the GDP per capita will also increase when the average life expectancy increases. Note that there are several outliers in the plot. The outliers were not removed because they had no noticeable effect on the outcome of the model.
+
 Part b. Model Fitting
 
 | ![figure9.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure9.png?raw=true) | 
@@ -30,6 +31,7 @@ The relationship between GDP per capita and the average life expectancy was not 
 | *Figure 10: JMP output of a simple linear regression model of GDP per capita as a function of average life expectancy.* |
 
 The model predicts that for every one unit increase in (average life expectancy)<sup>2</sup>, there is a corresponding 0.0008574 unit increase in the log (GDP per capita). The R<sup>2</sup> value is 0.8295 means 82.95% of the variation in log (GDP per capita) is explained through the regression on (average life expectancy)<sup>2</sup>. Our group found that the p-value in the analysis of the variance table is less than 0.05, which indicates that the regression model statistically significantly predicts the outcome variable. Moreover, the p-value in the parameter estimates tables is also less than 0.05, which means the (average life expectancy)<sup>2</sup> has a statistically significant effect on log (GDP per capita ppp). 
+
 Part c. Model Testing and Conclusions	
 
 | ![figure11.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure11.png?raw=true) | 
