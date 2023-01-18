@@ -12,7 +12,7 @@ Simple Linear Regression for GDP and Life Expectancy
 
 Part a. Exploratory Analysis
 
-| ![figure8.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure8.png) | 
+| ![figure8.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/figure8.png?raw=true) | 
 |:--:| 
 | *Figure 8: GDP per capita as a function of average life expectancy.* |
 
