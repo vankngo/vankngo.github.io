@@ -3,9 +3,7 @@ layout: post
 title: Twiiter Data Analystics
 tags: [twitter]
 ---
-## Background:
-
-Throughout the summer of 2022, some individuals, who are currently my teammates and I, were planning on a fan project in multiple cities to support a Korean pop group named (G)I-DLE for their first USA tour. We faced serious challenges because we did not know whom to contact for fundraising and spreading the word about the event. We tried to reach out to well-known people in the fandom. That solved part of the issues, but it created some confusion due to miscommunication. 
+## Background: Throughout the summer of 2022, some individuals, who are currently my teammates and I, were planning on a fan project in multiple cities to support a Korean pop group named (G)I-DLE for their first USA tour. We faced serious challenges because we did not know whom to contact for fundraising and spreading the word about the event. We tried to reach out to well-known people in the fandom. That solved part of the issues, but it created some confusion due to miscommunication. 
 On the date of the concerts, we explained the event to each person in the line and provided instructions on what to do. Despite our effort, there were not many people that participated in it. Even though the artists acknowledged our event, it did not show the unity of the fandom. Thus, to establish a dedicated source for USA fandom about projects, we created the account.
 There are many existing accounts for updates on news and social media posts for the group's members but not a lot of reliable translations. Therefore, we only post translations on our account. This report will provide us with better information to appeal to more followers without posting constantly.
 
