@@ -21,7 +21,7 @@ First, some variables are eliminated due to their relevance and inaccuracy. The 
 In 5 months, we posted 1023 tweets and gained 14,796 impressions, 1,048 engagements, and 262.1 media engagements on average. September has the highest number of tweets posted at 293, and still October has the highest average impression, engagement, and media engagement.
 
 #### •	August:
-<p align="right" width="100%">
+<p align="center" width="100%">
     August.<br>
     <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png)">
 </p>
