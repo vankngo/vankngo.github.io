@@ -3,7 +3,7 @@ layout: post
 title: Twiiter Data Analystics
 tags: [twitter]
 ---
-This is a data analytics of a Twitter account with datasets in Excel files that were merged, unionized and visualized using PowerBi and [Tableau Dashboard]([https://markdowntutorial.com/](https://public.tableau.com/app/profile/van8400/viz/TwitterDataAnalytics_16738548507100/TwitterDataAnalytics))
+This is a data analytics of a Twitter account with datasets in Excel files that were merged, unionized and visualized using PowerBi and [Tableau Dashboard](https://public.tableau.com/views/TwitterDataAnalytics_16738548507100/TwitterDataAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Background: 
 
