@@ -23,7 +23,6 @@ In 5 months, we posted 1023 tweets and gained 14,796 impressions, 1,048 engageme
 #### •	August:
 | ![Aug.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png?raw=true) | 
 |:--:| 
-| *August* |
 
 In August, we posted mostly on Sundays followed by Thursdays and Wednesdays. However, these did not gain as many user profiles click compared to other days such as Tuesdays and Saturdays. 
 The engagement rate is increasing and decreasing consistently with the number of tweets posted, except at certain hours when the tweet numbers are similar, but the engagement rate is not. For example, at 6 o'clock and 7 o'clock, the number of tweets posted is the same, but the engagement rate is higher at 7 o'clock, similarly, at 16 o'clock the engagement rate is double that at 18 o'clock. 
@@ -32,7 +31,6 @@ The tweet with the most engagements was on August 25. It is a translation of a s
 #### •	September:
 | ![Sep.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Sep.png?raw=true) | 
 |:--:| 
-| September* |
 
 In September, we posted every day with the most on Thursdays, Saturdays, and Sundays. While tweets on Saturdays and Tuesdays in August attracted more users, in September only tweets on Tuesdays maintained the attraction with the small number of tweets posted. 
 Moreover, the engagement rate is also much more correlated with the tweet numbers in September.
@@ -41,7 +39,6 @@ We had 1 tweet that had significant high engagements because it is a short trans
 #### •	October:
 | ![Oct.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Oct.png?raw=true) | 
 |:--:| 
-| *October* |
 
 In October, there are more days where we did not post versus in September. Nonetheless, the overall number of tweets posted per day is relatively similar except Tuesdays. In contrast with September where tweets on Tuesdays got the most user profile clicks, in October, tweets on Sundays got the most user profile clicks. 
 The correlation between engagement rate and the number of tweets posted is still high with some outliners. At 0 o’clock with 13 tweets posted, the engagement rate is significantly higher than at 3 o'clock and 19 o'clock, and at 10 o'clock, even though we posted 14 tweets, the engagement rate goes down instead of going up. 
