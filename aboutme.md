@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why me
+subtitle: Why me?
 ---
 
 **My name is Van Ngo.** I enjoy getting insights from data to make efficient decisions and improvements. 
