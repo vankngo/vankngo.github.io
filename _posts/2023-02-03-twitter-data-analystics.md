@@ -21,7 +21,8 @@ First, some variables are eliminated due to their relevance and inaccuracy. The 
 In 5 months, we posted 1023 tweets and gained 14,796 impressions, 1,048 engagements, and 262.1 media engagements on average. September has the highest number of tweets posted at 293, and still October has the highest average impression, engagement, and media engagement.
 
 #### •	August:
-![August](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png?raw=true){: .mx-auto.d-block :}
+![August](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png){: .mx-auto.d-block :}
+
 
 In August, we posted mostly on Sundays followed by Thursdays and Wednesdays. However, these did not gain as many user profiles click compared to other days such as Tuesdays and Saturdays. 
 The engagement rate is increasing and decreasing consistently with the number of tweets posted, except at certain hours when the tweet numbers are similar, but the engagement rate is not. For example, at 6 o'clock and 7 o'clock, the number of tweets posted is the same, but the engagement rate is higher at 7 o'clock, similarly, at 16 o'clock the engagement rate is double that at 18 o'clock. 
