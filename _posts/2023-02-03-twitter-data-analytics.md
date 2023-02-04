@@ -27,8 +27,7 @@ First, some variables are eliminated due to their relevance and inaccuracy. The 
 In 5 months, we posted 1023 tweets and gained 14,796 impressions, 1,048 engagements, and 262.1 media engagements on average. September has the highest number of tweets posted at 293, and still October has the highest average impression, engagement, and media engagement.
 
 #### •	August:
-| ![Aug.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png?raw=true) | 
-|:--:| 
+![Aug.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Aug.png?raw=true)
 
 In August, we posted mostly on Sundays followed by Thursdays and Wednesdays. However, these did not gain as many user profiles click compared to other days such as Tuesdays and Saturdays. 
 
@@ -37,8 +36,7 @@ The engagement rate is increasing and decreasing consistently with the number of
 The tweet with the most engagements was on August 25. It is a translation of a segment of the weekly music show where a member is a MC that has rarely been translated by anyone. The second one is a new video of a brand endorsement we were the first to find out about and posted it. The third one is an announcement of a Thai member doing a song cover in Chinese, which piqued the interest of many people.
 
 #### •	September:
-| ![Sep.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Sep.png?raw=true) | 
-|:--:| 
+![Sep.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Sep.png?raw=true)
 
 In September, we posted every day with the most on Thursdays, Saturdays, and Sundays. While tweets on Saturdays and Tuesdays in August attracted more users, in September only tweets on Tuesdays maintained the attraction with the small number of tweets posted. 
 
@@ -47,8 +45,7 @@ Moreover, the engagement rate is also much more correlated with the tweet number
 We had 1 tweet that had significant high engagements because it is a short translation of a show between an ex-member with a current member. The rest of the tweets in the top 10 has a lot more engagements with the lowest one as 514. Meanwhile, the 10th tweet in August is 163. We got consistency in engagements from posting content that was challenging and taking longer to get for fans living outside of South Korea.
 
 #### •	October:
-| ![Oct.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Oct.png?raw=true) | 
-|:--:| 
+![Oct.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Oct.png?raw=true)
 
 In October, there are more days where we did not post versus in September. Nonetheless, the overall number of tweets posted per day is relatively similar except Tuesdays. In contrast with September where tweets on Tuesdays got the most user profile clicks, in October, tweets on Sundays got the most user profile clicks. 
 
