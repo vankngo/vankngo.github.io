@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regression Analysis of Milton Friedman Dataset
-subtitle: SJSU Math 161B Project
+subtitle: SJSU Math 161B Project Spring 2021
 tags: [regression analysis]
 ---
 **Discussion:**
