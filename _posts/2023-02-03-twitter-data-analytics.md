@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twiiter Data Analytics
+title: Twitter Data Analytics
 tags: [twitter]
 ---
 This is a data analytics of a Twitter account with datasets in Excel files that were merged, unionized and visualized using PowerBI and [Tableau Dashboard](https://public.tableau.com/views/TwitterDataAnalytics_16738548507100/TwitterDataAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link)
