@@ -2,7 +2,7 @@
 layout: post
 title: Regression Analysis of Milton Friedman Dataset
 subtitle: SJSU Math 161B Project Spring 2021
-tags: [regression analysis]
+tags: [regression analysis, JMP]
 ---
 **Discussion:**
 We will model GDP per capita as a function of average life expectancy to determine a possible linear relationship. The hypothesis is that life expectancy will have a positive non-linear relationship with GPD (meaning that GDP will generally increase as life expectancy increases). We plan to observe a scatterplot to speculate on a possible connection and fit an appropriate regression model. Subsequently, we will test the respective models with QQ plots on the residuals and residual plots.
