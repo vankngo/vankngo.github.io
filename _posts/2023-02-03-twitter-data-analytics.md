@@ -12,7 +12,13 @@ Throughout the summer of 2022, some individuals, who are currently my teammates 
 
 On the date of the concerts, we explained the event to each person in the line and provided instructions on what to do. Despite our effort, there were not many people that participated in it. Even though the artists acknowledged our event, it did not show the unity of the fandom. Thus, to establish a dedicated source for USA fandom about projects, we created the account.
 
-There are many existing accounts for updates on news and social media posts for the group's members but not a lot of reliable translations. Therefore, we only post translations on our account. This report will provide us with better information to appeal to more followers without posting constantly.
+There are many existing accounts for updates on news and social media posts for the group's members but not a lot of reliable translations. Therefore, we only post translations on our account. This report will give us with better information to appeal to more followers without posting constantly.
+
+## Key insights:
+•	Distinctive content in tweets help us stand out for a great start.
+•	Regardless of the degree of activity, the context of tweets is a crucial element to attract attention.
+•	Uploading translations of older material during periods of low activity may potentially increase engagement.
+
 
 ## Discussion:
 
@@ -20,7 +26,7 @@ There are many existing accounts for updates on news and social media posts for 
 
 The first dataset of each month has 22 columns: Tweet id, Tweet permalink, Tweet text, time, impressions, engagements, engagement rate, retweets, replies, likes, user profile clicks, URL clicks, hashtag clicks, detail expands, permalink clicks, app opens, app installs, follows, email tweet, dial phone, media views, media engagements. The second dataset has 19 columns which are mentioned above except Tweet id, Tweet permalink, and Tweet text, also the time column is replaced with a date in the second data set.
 
-First, some variables are eliminated due to their relevance and inaccuracy. The first dataset is used to visualize time series data by hours and weekdays in detail. The second dataset is used to summarize the data over months. Each dataset is a union of 5 sub-datasets. 
+First, some variables are eliminated due to their relevance and inaccuracy. The first dataset is used to visualize time series data by hours and weekdays in detail. The second dataset is used to summarize the data over months. Each dataset is a union of five sub-datasets. 
 
 ### 2.	Analytics:
 
