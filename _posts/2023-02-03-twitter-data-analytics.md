@@ -15,9 +15,9 @@ On the date of the concerts, we explained the event to each person in the line a
 There are many existing accounts for updates on news and social media posts for the group's members but not a lot of reliable translations. Therefore, we only post translations on our account. This report will give us with better information to appeal to more followers without posting constantly.
 
 ## Key insights:
-•	Distinctive content in tweets help us stand out for a great start.
-•	Regardless of the degree of activity, the context of tweets is a crucial element to attract attention.
-•	Uploading translations of older material during periods of low activity may potentially increase engagement.
+- Distinctive content in tweets help us stand out for a great start.
+- Regardless of the degree of activity, the context of tweets is a crucial element to attract attention.
+- Uploading translations of older material during periods of low activity may potentially increase engagement.
 
 
 ## Discussion:
