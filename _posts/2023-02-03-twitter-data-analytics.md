@@ -42,7 +42,7 @@ The engagement rate is increasing and decreasing consistently with the number of
 The tweet with the most engagements was on August 25. It is a translation of a segment of the weekly music show where a member is a MC that has rarely been translated by anyone. The second one is a new video of a brand endorsement we were the first to find out about and posted it. The third one is an announcement of a Thai member doing a song cover in Chinese, which piqued the interest of many people.
 
 #### •	September:
-![Sep.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Sep.jpg?raw=true)
+![Sep.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/twitter/Sept.jpg?raw=true)
 
 In September, we posted every day with the most on Thursdays, Saturdays, and Sundays. While tweets on Saturdays and Tuesdays in August attracted more users, in September only tweets on Tuesdays maintained the attraction with the small number of tweets posted. 
 
