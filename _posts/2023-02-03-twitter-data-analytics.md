@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitter Data Analytics
-thumbnail-img: /assets/portfolio/twitter/twitter-thumb.png
+thumbnail-img: /assets/portfolio/twitter/twitter-thumb.jpg
 tags: [twitter, tableau, excel]
 ---
 This is a data analytics of a Twitter account with datasets in Excel files that were merged, unionized and visualized using Excel and [Tableau Dashboard](https://public.tableau.com/views/TwitterDataAnalytics_16738548507100/TwitterDataAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link)
