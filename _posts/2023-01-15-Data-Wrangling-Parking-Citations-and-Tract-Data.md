@@ -6,8 +6,6 @@ driveId: 1k1wMklYviUwMGDJZQILJf7acnwUugUSX/preview
 tags: [data wrangling, google collab, python, powerpoint]
 ---
 {% include googleDrivePlayer.html id=page.driveId %}
-<iframe src="https://drive.google.com/file/d/1k1wMklYviUwMGDJZQILJf7acnwUugUSX/preview"></iframe>
-
 
 
 
