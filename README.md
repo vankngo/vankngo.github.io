@@ -9,4 +9,4 @@ Analyzation of Parking Citation data, Income data and Tract data in San Francisc
 
 # [Regression Analysis of Milton Friedman Dataset](https://vankngo.github.io/2022-11-24-Regression-Analysis-of-Milton-Friedman-Dataset/)
 
-Testing the hypothesis that GDP will generally increase as life expectancy increases by observeing a scatterpolot to fit a regression model.
+Performing statistical tests for the proposed hypothesis that GDP will generally increase as life expectancy increases by observeing a scatterpolot to fit a regression model.
