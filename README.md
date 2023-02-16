@@ -5,7 +5,7 @@ A data analytics of a Twitter account with datasets in Excel files that were mer
 
 # [Data Wrangling - SF Parking Citations and Tract Data](https://vankngo.github.io/2023-01-15-Data-Wrangling-Parking-Citations-and-Tract-Data/)
 
-Analyzation of Parking Citation data, Income data and Tract data in San Francisco to identify possible racial and/or economic disparities. 
+Analyzation of [Parking Citation data, Income data and Tract data in San Francisco](code/parking_violation/Final_Draft_Project_Code.ipynb) to identify possible racial and/or economic disparities. 
 
 # [Regression Analysis of Milton Friedman Dataset](https://vankngo.github.io/2022-11-24-Regression-Analysis-of-Milton-Friedman-Dataset/)
 
