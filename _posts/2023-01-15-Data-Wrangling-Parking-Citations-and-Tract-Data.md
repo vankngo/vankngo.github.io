@@ -5,6 +5,8 @@ subtitle: SJSU Math 167PS Project Spring 2022
 driveId: 1LFEUbj7JBo9hgkonRnck36-ZzqY99u5Q/preview
 tags: [data wrangling, google collab, python, powerpoint]
 ---
+This is an analyzation of Parking Citation data, Income data and Tract data in San Francisco to identify possible racial and/or economic disparities.
+
 [Project Code (Python)](code/SF parking citation/Final_Draft_Project_Code.ipynb)
 
 {% include googleDrivePlayer.html id=page.driveId %}
@@ -130,11 +132,8 @@ We considered using geographical heat maps but due to time constraints, we opted
 ## References:
 [1]: <https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/> 
 [2]:  
-<https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> "Thomas. How Much 25 Major Cities Make in Parking Revenue Per Capita, Top View 
-NYC,"
+<https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> 
 [3]: <https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf>
-"The Debt Spiral: How Chicago's Vehicle Ticketing Prices Unfairly Burden Low Income 
-and Minority Communities (June 2018). Woodstock Institute,"
 
 <ol>
 <li>Chicago's Parking Meter Deal a Lesson in "Worst Practices", BGA,
