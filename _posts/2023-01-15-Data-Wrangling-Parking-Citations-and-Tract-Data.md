@@ -3,7 +3,7 @@ layout: post
 title: Data Wrangling - SF Parking Citations and Tract Data
 subtitle: SJSU Math 167PS Project Spring 2022
 driveId: 1LFEUbj7JBo9hgkonRnck36-ZzqY99u5Q/preview
-tags: [data wrangling, google collab, python, powerpoint]
+tags: [data wrangling, google colab, python, powerpoint]
 ---
 This is an analyzation of Parking Citation data, Income data and Tract data in San Francisco to identify possible racial and/or economic disparities.
 [Project Code (Python)](code/SF parking citation/Final_Draft_Project_Code.ipynb)
@@ -132,36 +132,49 @@ We considered using geographical heat maps but due to time constraints, we opted
 <ol>
 <li>Chicago's Parking Meter Deal a Lesson in "Worst Practices", BGA,
   
-  https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/</li>
+ 
+   https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/</li>
 
 <li>Thomas. How Much 25 Major Cities Make in Parking Revenue Per Capita, Top View 
 NYC, 
   
+   
 https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita</li>
 
 <li>The Debt Spiral: How Chicago's Vehicle Ticketing Prices Unfairly Burden Low Income 
 and Minority Communities (June 2018). Woodstock Institute,
-  
-  https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf</li>
+   
+   
+https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf</li>
 
 
 <li>"Parking Violations and Fines - SF Transportation Code Penalty Schedule (2022). SFMTA,"
   
+   
+   
 https://www.sfmta.com/sites/default/files/reports-and-documents/2020/10/fy_2021_fees_and_fines_effective_1.1.21.pdf</li>
 
 <li>"SFMTA (2018). Parking Citations, DataSF." 
   
+   
+   
 https://data.sfgov.org/Transportation/SFMTA-Parking-Citations/ab4h-6ztd/data</li>
 
 <li>"Federal Financial Institutions Examination Council (2018). FFIEC Census Reports, 
 FFIEC." 
   
+   
+   
 https://www.ffiec.gov/census/report.aspx?year=2018&state=06&msa=&county=075&tract=&report=demographic&page=1</li>
 
 <li>"SFMTA (2010). Census 2010: Tracts for San Francisco, DataSF." 
   
+   
+   
 https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2010-Tracts-for-San-Francisco/rarb-5ahf</li>
 
 <li>"LCCR (2017). Paying More For Being Poor Report 2017." 
-  
-<https://lccrsf.org/wp-content/uploads/LCCR-Report-Paying-More-for-Being-Poor-May-2017-5.4.17.pdf></li>
+
+   
+   
+https://lccrsf.org/wp-content/uploads/LCCR-Report-Paying-More-for-Being-Poor-May-2017-5.4.17.pdf</li>
