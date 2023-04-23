@@ -6,7 +6,6 @@ driveId: 1LFEUbj7JBo9hgkonRnck36-ZzqY99u5Q/preview
 tags: [data wrangling, google collab, python, powerpoint]
 ---
 This is an analyzation of Parking Citation data, Income data and Tract data in San Francisco to identify possible racial and/or economic disparities.
-
 [Project Code (Python)](code/SF parking citation/Final_Draft_Project_Code.ipynb)
 
 {% include googleDrivePlayer.html id=page.driveId %}
@@ -15,6 +14,12 @@ This is an analyzation of Parking Citation data, Income data and Tract data in S
 ## Background:
 
 Every year, the business of parking citations in major metropolitan cities across America grosses hundreds of millions of dollars in revenue. The City of San Francisco, California earns [the second highest spot in revenue per capita approximated at $98.80 in 2017][2]. Chicago was ranked 4th in revenue, however, the city received [some criticism][1] after leasing its parking meter business to private enterprises in 2008. On which, [several research papers][3] point to a stark disparity of citation frequency across neighborhoods of differing minority and income demographic. With this in mind, it begs the question on whether citation practices remain ethical in San Francisco. We look into a 2018 public dataset on citations drawn to investigate any signs of high citation frequency and revenue within Minority and Low-income blocks, also known as ‘Tracts’. 
+
+[1]: <https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/> 
+
+[2]: <https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> 
+
+[3]: <https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf>
 
 ## Key insights:
 
@@ -124,12 +129,6 @@ Further investigation with scatter plots segregated by income class discovered p
 We considered using geographical heat maps but due to time constraints, we opted for a more explanatory analysis. Future analyses could account for additional demographic variables such as age, registered businesses, and parking infrastructures. Missing tract data could also be supplemented with demographic details from a single source. More analyses, including time-series and prediction models, could be done. Additionally, researching parking meter business practices and regulations would provide more context for data cleaning and speculation on discrepancies.
 
 ## References:
-[1]: <https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/> 
-
-[2]: <https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> 
-
-[3]: <https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf>
-
 <ol>
 <li>Chicago's Parking Meter Deal a Lesson in "Worst Practices", BGA,
   
