@@ -31,13 +31,10 @@ Figure 1 shows the distribution of variables, segmented by class, and it demonst
 
 Figure 2 confirms a positive relationship between citation frequency and generated revenue, while Figure 3 shows that the average fine amount increases at a steeper rate than revenue. 
 
-<center>
   
 | ![Fig2.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig2.png?raw=true) | 
 |:--:| 
 | *Fig 2: Relationship of Citation Counts and Revenue* |
-  
-</center>
 
   
 | ![Fig3.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig3.png?raw=true) | 
