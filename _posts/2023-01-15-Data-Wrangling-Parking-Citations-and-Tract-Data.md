@@ -14,23 +14,17 @@ This is an analyzation of Parking Citation data, Income data and Tract data in S
 
 ## Background:
 
-Every year, the business of parking citations in major metropolitan cities across America grosses hundreds of millions of dollars in revenue. [The City of San Francisco, California earns the second highest spot in revenue per capita approximated at $98.80 in 2017][2]. [Chicago was ranked 4th in revenue, however, the city received some criticism after leasing its parking meter business to private enterprises in 2008][1]. On which, [several research papers][3] point to a stark disparity of citation frequency across neighborhoods of differing minority and income demographic. With this in mind, it begs the question on whether citation practices remain ethical in San Francisco. We look into a 2018 public dataset on citations drawn to investigate any signs of high citation frequency and revenue within Minority and Low-income blocks, also known as ‘Tracts’. 
+Every year, the business of parking citations in major metropolitan cities across America grosses hundreds of millions of dollars in revenue. The City of San Francisco, California earns [the second highest spot in revenue per capita approximated at $98.80 in 2017][2]. Chicago was ranked 4th in revenue, however, the city received [some criticism][1] after leasing its parking meter business to private enterprises in 2008. On which, [several research papers][3] point to a stark disparity of citation frequency across neighborhoods of differing minority and income demographic. With this in mind, it begs the question on whether citation practices remain ethical in San Francisco. We look into a 2018 public dataset on citations drawn to investigate any signs of high citation frequency and revenue within Minority and Low-income blocks, also known as ‘Tracts’. 
 
 ## Key insights:
 
-•	The analysis examines citation frequency and revenue disparities in different neighborhoods of San Francisco City based on minority and income demographics.
-
-•	The dataset includes 10 variables and over 1 million rows of data.
-
-•	Primary response variables measured were revenue per capita, citation counts, and average fine amount.
-
-•	No clear evidence of disparities between upper and lower-income classes in citation behavior was found.
-
-•	However, the lower class pays more in fines for certain violations, suggesting potential disparities in citation practices.
-
-•	The analysis reveals possible discrepancies in citation behavior, particularly with average fine amounts.
-
-•	Further research is needed to investigate other potential confounding variables.
+- The analysis examines citation frequency and revenue disparities in different neighborhoods of San Francisco City based on minority and income demographics.
+- The dataset includes 10 variables and over 1 million rows of data.
+- Primary response variables measured were revenue per capita, citation counts, and average fine amount.
+- No clear evidence of disparities between upper and lower-income classes in citation behavior was found.
+- However, the lower class pays more in fines for certain violations, suggesting potential disparities in citation practices.
+- The analysis reveals possible discrepancies in citation behavior, particularly with average fine amounts.
+- Further research is needed to investigate other potential confounding variables.
 
 ## Introduction/Datasets Description::
 
@@ -131,8 +125,9 @@ We considered using geographical heat maps but due to time constraints, we opted
 
 ## References:
 [1]: <https://www.bettergov.org/news/chicagos-parking-meter-deal-a-lesson-in-worst-practices/> 
-[2]:  
-<https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> 
+
+[2]: <https://www.topviewnyc.com/packages/how-much-25-major-cities-make-in-parking-ticket-revenue-per-capita> 
+
 [3]: <https://woodstockinst.org/wp-content/uploads/2018/06/The-Debt-Spiral-How-Chicagos-Vehicle-Ticketing-Practices-Unfairly-Burden-Low-Income-and-Minority-Communities-June-2018.pdf>
 
 <ol>
