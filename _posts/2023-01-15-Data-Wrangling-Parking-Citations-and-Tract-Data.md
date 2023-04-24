@@ -62,62 +62,62 @@ Figure 2 confirms a positive relationship between citation frequency and generat
 
 Since the preliminary findings do not point to any evident disparities between the upper- and lower-class tracts, we further investigated the same interactions we have touched on, specifically between the income classes. 
 
-In figure 6 it appears that the upper class has an increase in citation frequency and revenue as minority population increases, and there is a reversal of associations between the upper and lower classes for average fine amount and population size, which suggests a potential difference in citation value between the two classes. However, there are a few high outlying values which largely determine the slopes of the lines, which would need further testing to determine if they are outliers or high leverage data points and if they are influential. 
+In figure 4 it appears that the upper class has an increase in citation frequency and revenue as minority population increases, and there is a reversal of associations between the upper and lower classes for average fine amount and population size, which suggests a potential difference in citation value between the two classes. However, there are a few high outlying values which largely determine the slopes of the lines, which would need further testing to determine if they are outliers or high leverage data points and if they are influential. 
 
 | ![Fig6.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig6.png?raw=true) | 
 |:--:| 
-| *Fig 6: Citation Count and Revenue Across Minority % and Population Size* |
+| *Fig 4: Citation Count and Revenue Across Minority % and Population Size* |
 
-To examine the associations between variables within each class, we plotted the data accordingly. Figure 7 shows a lack of association within the Moderate, Middle, and Lower classes, but a slight upward trend in revenue for the Upper class as income increases. 
-Figure 8 shows a lack of association within both classes for the relationship between income and citation counts, but a positive correlation for the Middle class, raising suspicions of disproportionate citations in these tracts. 
-Figure 9 confirms our suspicions of disparity, with a negative relationship between counts and owner-occupied units in the Middle class, implying that middle class neighborhoods with less home density and higher average income are targeted with citations more.
+To examine the associations between variables within each class, we plotted the data accordingly. Figure 5 shows a lack of association within the Moderate, Middle, and Lower classes, but a slight upward trend in revenue for the Upper class as income increases. 
+Figure 6 shows a lack of association within both classes for the relationship between income and citation counts, but a positive correlation for the Middle class, raising suspicions of disproportionate citations in these tracts. 
+Figure 7 confirms our suspicions of disparity, with a negative relationship between counts and owner-occupied units in the Middle class, implying that middle class neighborhoods with less home density and higher average income are targeted with citations more.
 
 | ![Fig7.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig7.png?raw=true) | 
 |:--:| 
-| *Fig 7: Revenue per Capita vs Median Income By Class* |
+| *Fig 5: Revenue per Capita vs Median Income By Class* |
 
 
 | ![Fig8.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig8.png?raw=true) | 
 |:--:| 
-| *Fig 8: Average Median Income vs Citation Counts by Class* |
+| *Fig 6: Average Median Income vs Citation Counts by Class* |
 
 
 | ![Fig9.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig9.png?raw=true) | 
 |:--:| 
-| *Fig 9: Owner Occupied Units vs Counts by Class* |
+| *Fig 7: Owner Occupied Units vs Counts by Class* |
 
 ## Results of Income Class Grouped Dataset::
 
-From Figure 10, we can see the significant difference in average revenue between lower class and others. It doubled the value of average revenue for each middle and moderate class, and around $50 higher than the upper class. Though the average fine amount is similar for all classes, it is still slightly higher in the lower class. 
+From Figure 8, we can see the significant difference in average revenue between lower class and others. It doubled the value of average revenue for each middle and moderate class, and around $50 higher than the upper class. Though the average fine amount is similar for all classes, it is still slightly higher in the lower class. 
 
 | ![Fig10.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig10.png?raw=true) | 
 |:--:| 
-| *Fig 10: Avg Fine Amount and Avg Revenue per class* |
+| *Fig 8: Avg Fine Amount and Avg Revenue per class* |
 
-Moreover, Figure 11 shows how despite having the least average population size, the lower class leads in average citation counts. The upper class appears to be the only class with the most consistent and logical citation behavior through the lens of these variables, hinting that citation disparity might exist in San Francisco.
+Moreover, Figure 9 shows how despite having the least average population size, the lower class leads in average citation counts. The upper class appears to be the only class with the most consistent and logical citation behavior through the lens of these variables, hinting that citation disparity might exist in San Francisco.
 
 | ![Fig11.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig11.png?raw=true) | 
 |:--:| 
-| *Fig 11: Avg Population and Avg Citation Counts per class* |
+| *Fig 9: Avg Population and Avg Citation Counts per class* |
 
 ## Results From Violation Type Grouped Dataset:
 
-Figures 6, 10, and 11 support our suspicion of disparity against lower-income neighborhoods regarding average fine amounts, but not in the relationships shown in the scatterplots. To investigate further, we grouped the dataset by Violation Type/Description and computed the average fine amount for each. Figure 14 shows that the lower class is occasionally cited with a higher fine amount for certain violations than the upper class, with differences averaging up to $3.72 more. This suggests that add-on fees for late penalties, etc., may be the cause of the differences in fine amounts.
+Figures 4, 8, and 9 support our suspicion of disparity against lower-income neighborhoods regarding average fine amounts, but not in the relationships shown in the scatterplots. To investigate further, we grouped the dataset by Violation Type/Description and computed the average fine amount for each. Figure 12 shows that the lower class is occasionally cited with a higher fine amount for certain violations than the upper class, with differences averaging up to $3.72 more. This suggests that add-on fees for late penalties, etc., may be the cause of the differences in fine amounts.
 
 | ![Fig12.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig1.png?raw=true) | 
 |:--:| 
-| *Fig 12: Common Lower Class Violation Types* |
+| *Fig 10: Common Lower Class Violation Types* |
 
 
 | ![Fig13.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig13.png?raw=true) | 
 |:--:| 
-| *Fig 13: Common Upper Class Violation Types* |
+| *Fig 11: Common Upper Class Violation Types* |
 
 
 
 | ![Fig14.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig14.png?raw=true) | 
 |:--:| 
-| *Fig 14: Violation Type by Fine Collected for Lower and Upper Class* |
+| *Fig 12: Violation Type by Fine Collected for Lower and Upper Class* |
 
 ## Conslusion:
 
