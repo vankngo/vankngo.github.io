@@ -104,7 +104,7 @@ Moreover, Figure 9 shows how despite having the least average population size, t
 
 Figures 4, 8, and 9 support our suspicion of disparity against lower-income neighborhoods regarding average fine amounts, but not in the relationships shown in the scatterplots. To investigate further, we grouped the dataset by Violation Type/Description and computed the average fine amount for each. Figure 12 shows that the lower class is occasionally cited with a higher fine amount for certain violations than the upper class, with differences averaging up to $3.72 more. This suggests that add-on fees for late penalties, etc., may be the cause of the differences in fine amounts.
 
-| ![Fig12.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig1.png?raw=true) | 
+| ![Fig12.png](https://github.com/vankngo/vankngo.github.io/blob/master/assets/portfolio/SF/Fig12.png?raw=true) | 
 |:--:| 
 | *Fig 10: Common Lower Class Violation Types* |
 
